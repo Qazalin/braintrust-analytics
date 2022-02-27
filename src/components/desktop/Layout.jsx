@@ -14,6 +14,14 @@ import { ClientChart } from './charts/ClientChart'
 import clientTransactionData from '../../data/topClientsTransactions.json'
 import clientValueData from '../../data/topClientsValue.json'
 
+// Third Chart
+import { TopCategories } from './charts/TopCategories'
+import topCategoriesData from '../../data/categoryFrequency.json'
+
+// Forth Chart
+import { TalentView } from '../TalentView'
+import talentViewData from '../../data/jobFees.json'
+
 export const DesktopLayout = () => {
   const { colorMode } = useColorMode()
   const bgColor = { light: '#FFFFFF', dark: 'transparent' }
@@ -34,7 +42,7 @@ export const DesktopLayout = () => {
         <Navbar />
       </Box>
       <VStack spacing={2} width={'100%'} height="150%">
-        <SectionContainer>
+        <SectionContainer id="client">
           <ChartContainer
             heading={'total fees'}
             desc={
@@ -53,7 +61,22 @@ export const DesktopLayout = () => {
             }
           />
         </SectionContainer>
-        <SectionContainer></SectionContainer>
+        <SectionContainer id="talent">
+          <ChartContainer
+            heading={'Top categories'}
+            desc={
+              'The top job categories in Braintrust that have generated fees in $BTRST'
+            }
+            chart={<TopCategories data={topCategoriesData} />}
+          />
+          <ChartContainer
+            heading={'Top Talent'}
+            desc={
+              'The top individuals that have created the most flow in $BTRST fees (in $USD)'
+            }
+            chart={<TalentView data={talentViewData} />}
+          />
+        </SectionContainer>
         <Text align={'center'} mt="12px" fontFamily={'body'}>
           Built with ❤️ by qazal
         </Text>

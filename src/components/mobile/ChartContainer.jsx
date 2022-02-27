@@ -9,13 +9,19 @@ import {
 } from '@chakra-ui/react'
 import { BsInfoCircle } from 'react-icons/bs'
 
-export const ChartContainer = ({ heading, desc, chart }) => {
+export const ChartContainer = ({ heading, desc, chart, boxProps }) => {
   const { colorMode } = useColorMode()
 
   // Colors
   const bgColor = { light: '#FFFFFF', dark: 'black' }
   return (
-    <Box bg={bgColor[colorMode]} borderRadius={'20'} height="50%" w="100%">
+    <Box
+      bg={bgColor[colorMode]}
+      borderRadius={'20'}
+      height="50%"
+      w="100%"
+      {...boxProps}
+    >
       <Flex mt={['0', '2%']} pl="30px" pt={['20px', '0px']}>
         <Text mt="8px" variant="heading">
           {heading}

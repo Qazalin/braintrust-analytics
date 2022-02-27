@@ -12,6 +12,14 @@ import { ClientChart } from '../desktop/charts/ClientChart'
 import clientTransactionData from '../../data/topClientsTransactions.json'
 import clientValueData from '../../data/topClientsValue.json'
 
+// Third Chart
+import { TopCategories } from './charts/TopCategories'
+import topCategoriesData from '../../data/categoryFrequency.json'
+
+// Forth Chart
+import { TalentView } from '../TalentView'
+import talentViewData from '../../data/jobFees.json'
+
 const charts = ['fees', 'clients', 'categories', 'talent']
 export const MobileLayout = ({ client, talent }) => {
   const { colorMode } = useColorMode()
@@ -47,7 +55,23 @@ export const MobileLayout = ({ client, talent }) => {
               }
             />
           </SectionContainer>
-          <SectionContainer></SectionContainer>
+          <SectionContainer>
+            <ChartContainer
+              heading={'Top categories'}
+              desc={
+                'The top job categories in Braintrust that have generated fees in $BTRST'
+              }
+              chart={<TopCategories data={topCategoriesData} />}
+              boxProps={{ height: '80%', pb: '20%' }}
+            />
+            <ChartContainer
+              heading={'Top Talent'}
+              desc={
+                'The top individuals that have created the most flow in $BTRST fees (in $USD)'
+              }
+              chart={<TalentView data={talentViewData} isMobile={true} />}
+            />
+          </SectionContainer>
         </VStack>
       </Box>
     </Box>
