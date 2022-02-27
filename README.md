@@ -19,6 +19,11 @@ Interested? Learn more in the <a href="#resources">resources</a> section.
 -   Ability to filter and search
 -   More complex analytics and charts from various data sources
 
+## Data analytics
+
+The project is based on the data from [fees.btrstinfo.xyz](https://fees.btrstinfo.xyz/)<br/>
+The data was sorted using the [Pandas](https://pandas.pydata.org/) library in Python. You can find the notebook of the data [here](https://colab.research.google.com/drive/1B1yOhnXW2YzEuwnLZHqjMyIMPt9Du0P4?usp=sharing)
+
 <h2 id="resources">Resources</h2>
 
 -   [Braintrust founders on NotBoring](https://www.notboring.co/p/braintrust-fighting-capitalism-with)
