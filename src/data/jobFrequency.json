@@ -1,0 +1,323 @@
+[
+  { "frequency": 52, "title": "Sr. Product Designer" },
+  { "frequency": 35, "title": "Senior Software Engineer" },
+  { "frequency": 30, "title": "Senior Product Designer" },
+  { "frequency": 28, "title": "Product Designer" },
+  {
+    "frequency": 23,
+    "title": "\"Senior Product Designer, Provider Experience\""
+  },
+  { "frequency": 22, "title": "Software Engineer (Test Focus)" },
+  { "frequency": 22, "title": "Senior Software Engineer - US - Remote" },
+  { "frequency": 20, "title": "Sr. iOS Developer" },
+  { "frequency": 18, "title": "Sr. iOS Developer - Swift" },
+  { "frequency": 16, "title": "\"Sr. Product Designer, Sell Side\"" },
+  { "frequency": 14, "title": "Senior UX/UI Designer (Will Rogers - W2)" },
+  { "frequency": 14, "title": "Technical Program Manager" },
+  { "frequency": 13, "title": "Senior Full-Stack Engineer (Ruby on Rails)" },
+  { "frequency": 13, "title": "Lead iOS Developer" },
+  { "frequency": 13, "title": "Senior Software Engineer (Anthony Daga W2)" },
+  { "frequency": 13, "title": "Product Manager" },
+  { "frequency": 13, "title": "Frontend / Mobile Engineer" },
+  {
+    "frequency": 13,
+    "title": "\"Full Stack Web Developer - Drupal, PHP, JavaScript\""
+  },
+  { "frequency": 13, "title": "Frontend Software Developer (React)" },
+  { "frequency": 13, "title": "Walled Garden web application development" },
+  { "frequency": 12, "title": "Full Stack Developer (Backend Focus)" },
+  {
+    "frequency": 12,
+    "title": "\"Senior Software Machine Learning Engineer (Python, Java, Kafka, Kubernetes)\""
+  },
+  {
+    "frequency": 12,
+    "title": "Android Automotive Developer - Google Automotive Services"
+  },
+  { "frequency": 12, "title": "Senior Full Stack Web Developer" },
+  { "frequency": 12, "title": "Sr. Interaction Designer" },
+  { "frequency": 12, "title": "Product Manager (Fintech)" },
+  { "frequency": 12, "title": "Lead Visual Designer" },
+  { "frequency": 12, "title": "Sr Software Engineer (SDET)" },
+  { "frequency": 12, "title": "Sr Data Engineer" },
+  { "frequency": 12, "title": "Engineering Manager / Tech Lead" },
+  { "frequency": 12, "title": "TaskRabbit Full Stack Engineer" },
+  {
+    "frequency": 12,
+    "title": "\"Full Stack Engineer (React, Redux, Typescript)\""
+  },
+  { "frequency": 11, "title": "Front End Developer" },
+  {
+    "frequency": 11,
+    "title": "Marcus: Cards Engineering - Apple Card (W2 & Benefits provided)"
+  },
+  { "frequency": 10, "title": "Design Technologist" },
+  { "frequency": 10, "title": "Senior React Native Engineer" },
+  { "frequency": 10, "title": "Senior Data Analyst (John Cooper W2)" },
+  { "frequency": 10, "title": "Design Prototyper" },
+  {
+    "frequency": 10,
+    "title": "\"Full-Stack Product Engineer: React/Node.js, Remote\""
+  },
+  { "frequency": 10, "title": "Senior Product Owner" },
+  {
+    "frequency": 9,
+    "title": "Senior Software Engineer - Kotlin Multiplatform (Android) - BRD"
+  },
+  { "frequency": 9, "title": "QA Engineer" },
+  { "frequency": 9, "title": "Software Engineer (JS/TypeScript)" },
+  { "frequency": 9, "title": "DevOps (ChainOps)" },
+  { "frequency": 9, "title": "Distributed Systems Engineer" },
+  { "frequency": 8, "title": "\"UX Content Designer, Design Systems\"" },
+  { "frequency": 8, "title": "Brand Design Manager" },
+  { "frequency": 8, "title": "Sr. Product Designer (Prototyper)" },
+  { "frequency": 8, "title": "Sr. Frontend Engineer -- React.js/React Native" },
+  { "frequency": 8, "title": "Senior Copy Writer" },
+  { "frequency": 8, "title": "\"Designer, Digital Marketing\"" },
+  { "frequency": 7, "title": "Product Owner" },
+  { "frequency": 7, "title": "Senior Java Engineer" },
+  { "frequency": 7, "title": "Infrastructure / DevOps Engineer" },
+  {
+    "frequency": 7,
+    "title": "\"Senior Product Manager, Digital Incubator, Payments\""
+  },
+  { "frequency": 7, "title": "Lead UX Designer" },
+  { "frequency": 7, "title": "Front End Software Engineer" },
+  {
+    "frequency": 7,
+    "title": "UX Designer (KW Product Team) - 6 month Contract to Hire"
+  },
+  { "frequency": 7, "title": "Blockchain Security Auditor" },
+  {
+    "frequency": 7,
+    "title": "\"Senior Product Manager, Digital Incubator, Direct\""
+  },
+  { "frequency": 7, "title": "Full Stack Engineer" },
+  { "frequency": 7, "title": "\"Sr Product Designer, Design System\"" },
+  { "frequency": 7, "title": "Senior Back-End Developer" },
+  { "frequency": 7, "title": "Backend Developer" },
+  {
+    "frequency": 7,
+    "title": "Sr. Front-End Engineer - Typescript + React + CSS"
+  },
+  {
+    "frequency": 7,
+    "title": "Senior Frontend Engineer - Typescript + React + CSS"
+  },
+  { "frequency": 7, "title": "Mid-Level Django Developer" },
+  { "frequency": 6, "title": "Principal Full Stack Developer" },
+  { "frequency": 6, "title": "Product Manager / Business Analyst" },
+  { "frequency": 6, "title": "Senior Full-Stack Engineer" },
+  { "frequency": 6, "title": "Research Engineer / Cryptoeconomist" },
+  {
+    "frequency": 6,
+    "title": "Sr. Back End Engineer/Architect- Payment Platforms"
+  },
+  { "frequency": 6, "title": "Growth Sr/Software - Engineer Tech Lead" },
+  { "frequency": 6, "title": "Full Stack Developer (AWS + Node)" },
+  { "frequency": 6, "title": "Sr. Python Developer - Logistics Engineering" },
+  { "frequency": 6, "title": "Unity Engineer" },
+  { "frequency": 6, "title": "Service Designer (Life Insurance Division)" },
+  { "frequency": 6, "title": "Sr. Front End Developer - React Native" },
+  { "frequency": 6, "title": "Senior Visual Designer" },
+  {
+    "frequency": 6,
+    "title": "Full Stack Javascript Developer (Frontend Focus)"
+  },
+  { "frequency": 6, "title": "Sr. Digital Products and Services Designer" },
+  { "frequency": 6, "title": "Consultant" },
+  { "frequency": 6, "title": "UX Program Manager" },
+  { "frequency": 6, "title": "Data Analyst / Growth Operations" },
+  { "frequency": 6, "title": "Full Stack Engineer: Ruby on Rails and React" },
+  { "frequency": 6, "title": "Senior Web Designer" },
+  {
+    "frequency": 5,
+    "title": "\"Director, Demand Generation Marketing (contract-to-hire)\""
+  },
+  { "frequency": 5, "title": "Senior Full Stack Software Engineer" },
+  { "frequency": 5, "title": "\"Senior Engineer, .NET/C#\"" },
+  { "frequency": 5, "title": "Sr Cloud SRE (Site Reliability Engineer)" },
+  { "frequency": 5, "title": "Sr. VR Engineer" },
+  { "frequency": 5, "title": "Senior DevOps Engineer" },
+  { "frequency": 5, "title": "Senior Frontend Engineer (React + GraphQL)" },
+  { "frequency": 5, "title": "Project Manager - Acquisitions of New Sites" },
+  { "frequency": 5, "title": "UI/UX Designer" },
+  { "frequency": 5, "title": "Principal Full Stack Engineer" },
+  {
+    "frequency": 5,
+    "title": "\"Senior Product Designer, Cross-Marketplace Experience (Option for W2 or Contract) | Etsy\""
+  },
+  { "frequency": 5, "title": "IT Support Engineer" },
+  {
+    "frequency": 5,
+    "title": "Full Stack Developer (React/Python/Django) - 2x roles"
+  },
+  { "frequency": 5, "title": "Sr. Editorial Content Writer" },
+  { "frequency": 5, "title": "ELK Developer" },
+  { "frequency": 5, "title": "Sr. Frontend Developer - Remote/Global" },
+  { "frequency": 5, "title": "iOS Developer" },
+  { "frequency": 5, "title": "Lead Experience Designer" },
+  { "frequency": 4, "title": "Principal Software Engineer" },
+  { "frequency": 4, "title": "DevOps Engineer" },
+  { "frequency": 4, "title": "Senior Backend Engineer" },
+  { "frequency": 4, "title": "\"Listing Editor - Remote, US-Based\"" },
+  { "frequency": 4, "title": "Senior Android Engineer" },
+  { "frequency": 4, "title": "React Native Developer" },
+  { "frequency": 4, "title": "Senior Software Engineer - Frontend" },
+  { "frequency": 4, "title": "Sr. Front End Developer - Fintech" },
+  { "frequency": 4, "title": "UX / Service Designer" },
+  { "frequency": 4, "title": "Senior UX/UI Design Specialist" },
+  { "frequency": 4, "title": "Senior iOS Engineer" },
+  { "frequency": 4, "title": "Senior Android Developer" },
+  { "frequency": 4, "title": "\"UX/Visual Designer, Design System\"" },
+  {
+    "frequency": 4,
+    "title": "Marketing Graphic Designer | Myriad | ASAP - October 31"
+  },
+  { "frequency": 4, "title": "Lead UX/Service Designer (McKinsey)" },
+  { "frequency": 4, "title": "\"Listing Specialist - Remote, US-Based\"" },
+  { "frequency": 4, "title": "Frontend Engineer" },
+  {
+    "frequency": 4,
+    "title": "Android Developer - Kotlin | RxJava (Multiple Positions)"
+  },
+  { "frequency": 3, "title": "Sr. UX Designer (contract-to-hire)" },
+  { "frequency": 3, "title": "React Native Developer (Android & iOS)" },
+  { "frequency": 3, "title": "Developer - Technical Debt" },
+  { "frequency": 3, "title": "Data Engineer" },
+  { "frequency": 3, "title": "Senior Full Stack Developer" },
+  { "frequency": 3, "title": "Cosmos SDK Blockchain Engineer" },
+  { "frequency": 3, "title": "Technical Writer for APIs" },
+  { "frequency": 3, "title": "Senior Mobile Product Designer (Android/iOS)" },
+  {
+    "frequency": 3,
+    "title": "Senior Back-End Engineer - JavaScript + Architecture"
+  },
+  {
+    "frequency": 3,
+    "title": "Product Designer | 2 Roles - 1 Senior/1 Mid| Reverb"
+  },
+  { "frequency": 3, "title": "Technical Writer" },
+  { "frequency": 3, "title": "Front-End Developer" },
+  { "frequency": 3, "title": "React Dev (Startup)" },
+  { "frequency": 3, "title": "Frontend Developer - Remote/Global" },
+  { "frequency": 3, "title": "Marketing Coordinator" },
+  { "frequency": 3, "title": "Full Stack Developer (React/Python/Django)" },
+  { "frequency": 3, "title": "React Developer" },
+  { "frequency": 3, "title": "Mid-Level Backend Engineer" },
+  { "frequency": 3, "title": "Service Designer (Retirement Solutions)" },
+  { "frequency": 3, "title": "Lead Service Design" },
+  { "frequency": 3, "title": "Growth - Marketing Automation" },
+  { "frequency": 3, "title": "iOS Engineer" },
+  { "frequency": 3, "title": "Full Stack Rails Engineer | WeWork" },
+  { "frequency": 3, "title": "Mobile Developer Tech Lead" },
+  { "frequency": 3, "title": "Web UI/UX Designer" },
+  { "frequency": 3, "title": "Backend Engineer" },
+  { "frequency": 3, "title": "UX / UI / Web Designer" },
+  { "frequency": 3, "title": "Visual Designer and Prototyper" },
+  { "frequency": 3, "title": "\"Product Manager, Fleet\"" },
+  {
+    "frequency": 2,
+    "title": "\"Sr. Product Designer, Transaction Management\""
+  },
+  { "frequency": 2, "title": "Product Designer / Prototyper" },
+  { "frequency": 2, "title": "Brand Identity Designer" },
+  {
+    "frequency": 2,
+    "title": "Full stack engineer needed to create analytics dashboard and Stripe Subscription!"
+  },
+  {
+    "frequency": 2,
+    "title": "Machine Learning Consultant (Design/Architecture)"
+  },
+  { "frequency": 2, "title": "Senior UX Designer" },
+  {
+    "frequency": 2,
+    "title": "Software Development Engineer - Front End (React.js/Next.js)"
+  },
+  { "frequency": 2, "title": "Sr. Data Engineer - Python" },
+  { "frequency": 2, "title": "Content Designer" },
+  { "frequency": 2, "title": "IAM Manager - IT Security" },
+  {
+    "frequency": 2,
+    "title": "Senior Partner Marketing Manager (contract-to-hire)"
+  },
+  { "frequency": 2, "title": "Full Stack React Native Developer" },
+  { "frequency": 2, "title": "Visual Designer" },
+  { "frequency": 2, "title": "Senior Frontend Engineer" },
+  { "frequency": 2, "title": "Solidity Engineer" },
+  { "frequency": 2, "title": "Conversion Oriented Web Designer" },
+  { "frequency": 2, "title": "\"Product Design, Prototyper\"" },
+  { "frequency": 2, "title": "\"Sr. Product Designer, Design System\"" },
+  { "frequency": 2, "title": "Sr Visual Designer" },
+  { "frequency": 2, "title": "Senior UX/UI Designer" },
+  { "frequency": 2, "title": "Rockstar UI/UX and Web Designer" },
+  { "frequency": 2, "title": "Product Design Lead" },
+  { "frequency": 2, "title": "Sr Product Designer" },
+  { "frequency": 2, "title": "Javascript Engineer" },
+  { "frequency": 2, "title": "Sr. QA Automation Engineer (contract-to-hire)" },
+  { "frequency": 2, "title": "Senior Web Developer - React/Redux" },
+  { "frequency": 2, "title": "Sr UX/UI Designer" },
+  { "frequency": 2, "title": "Full Stack Engineer (Python + Javascript)" },
+  { "frequency": 2, "title": "Solution Architect" },
+  { "frequency": 2, "title": "Associate QA Engineer" },
+  { "frequency": 2, "title": "Senior Back-End Engineer - Node.js & GCP" },
+  {
+    "frequency": 1,
+    "title": "Sr.Full Stack Developer (Django/Python developer)"
+  },
+  { "frequency": 1, "title": "AWS/Postgres/Node.js DevOps Engineer" },
+  { "frequency": 1, "title": "Video Editor - Project Manager" },
+  { "frequency": 1, "title": "Content Marketing Manager" },
+  {
+    "frequency": 1,
+    "title": "Sr. Back End Engineer/Architect- Customer Data Platform (CDP)."
+  },
+  { "frequency": 1, "title": "Senior Designer" },
+  { "frequency": 1, "title": "\"Prototyper, Product Designer\"" },
+  { "frequency": 1, "title": "Design Director-McKinsey" },
+  { "frequency": 1, "title": "Front End Developer - React JS / React Native" },
+  { "frequency": 1, "title": "Sr Front-End Engineer" },
+  { "frequency": 1, "title": "Senior Mobile Engineer (Flutter)" },
+  { "frequency": 1, "title": "Front End Web Developer (React.js)" },
+  { "frequency": 1, "title": "UI Designer" },
+  { "frequency": 1, "title": "Data Analyst" },
+  { "frequency": 1, "title": "Comms Designer" },
+  { "frequency": 1, "title": "Design Prototyper / Powerpoint Demo" },
+  { "frequency": 1, "title": "Design and Product Owner" },
+  { "frequency": 1, "title": "\"Senior Product Designer, Design System\"" },
+  { "frequency": 1, "title": "UX Architect" },
+  { "frequency": 1, "title": "Growth Analytics Automation Developer" },
+  { "frequency": 1, "title": "Service Designer" },
+  { "frequency": 1, "title": "\"Visual Designer, Marketing\"" },
+  { "frequency": 1, "title": "ELK Stack Consultant" },
+  { "frequency": 1, "title": "\"Product Designer, Figma Prototype\"" },
+  { "frequency": 1, "title": "Digital Marketer" },
+  { "frequency": 1, "title": "Web Designer" },
+  { "frequency": 1, "title": "Senior Software Development Engineer" },
+  { "frequency": 1, "title": "Senior User Researcher" },
+  { "frequency": 1, "title": "Senior Full Stack Developer (Javascript + PHP)" },
+  {
+    "frequency": 1,
+    "title": "Digital Science \u2013 Digital Best Practices App"
+  },
+  { "frequency": 1, "title": "Front End Web Developer" },
+  { "frequency": 1, "title": "Design Development Phase II" },
+  { "frequency": 1, "title": "Lead Product / UX Designer (Mobile App)" },
+  { "frequency": 1, "title": "Rust Engineer" },
+  { "frequency": 1, "title": "Franchising Database Manager" },
+  { "frequency": 1, "title": "Contract Product Owner" },
+  { "frequency": 1, "title": "Sr. UX/UI Designer" },
+  { "frequency": 1, "title": "Web Developer" },
+  { "frequency": 1, "title": "Software Engineer" },
+  { "frequency": 1, "title": "\"Visual Designer, Icons\"" },
+  { "frequency": 1, "title": "iOS App Developer" },
+  { "frequency": 1, "title": "Blockchain/DeFi Consultant" },
+  { "frequency": 1, "title": "UI Designer/Visual Designer" },
+  { "frequency": 1, "title": "Marketing Copywriter (Healthcare)" },
+  { "frequency": 1, "title": "Front End / Web Developer" },
+  {
+    "frequency": 1,
+    "title": "Proof of Concept: Payment Flow to Accelerated Labs"
+  }
+]

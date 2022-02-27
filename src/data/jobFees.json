@@ -1,0 +1,323 @@
+[
+  { "fees": 32063.4, "title": "Sr. Product Designer" },
+  { "fees": 23377.2, "title": "Senior Software Engineer" },
+  { "fees": 22982.5, "title": "Senior Product Designer" },
+  { "fees": 21750.24, "title": "Product Designer" },
+  {
+    "fees": 21098.0,
+    "title": "\"Senior Product Designer, Provider Experience\""
+  },
+  { "fees": 19323.62, "title": "Software Engineer (Test Focus)" },
+  { "fees": 16172.8, "title": "Senior Software Engineer - US - Remote" },
+  { "fees": 15904.0, "title": "Sr. iOS Developer" },
+  { "fees": 15624.0, "title": "Sr. iOS Developer - Swift" },
+  { "fees": 15163.13, "title": "\"Sr. Product Designer, Sell Side\"" },
+  { "fees": 13843.2, "title": "Senior UX/UI Designer (Will Rogers - W2)" },
+  { "fees": 12902.4, "title": "Technical Program Manager" },
+  { "fees": 11197.8, "title": "Senior Full-Stack Engineer (Ruby on Rails)" },
+  { "fees": 11125.5, "title": "Lead iOS Developer" },
+  { "fees": 11110.4, "title": "Senior Software Engineer (Anthony Daga W2)" },
+  { "fees": 11067.5, "title": "Product Manager" },
+  { "fees": 9120.0, "title": "Frontend / Mobile Engineer" },
+  {
+    "fees": 8782.5,
+    "title": "\"Full Stack Web Developer - Drupal, PHP, JavaScript\""
+  },
+  { "fees": 8585.5, "title": "Frontend Software Developer (React)" },
+  { "fees": 8317.5, "title": "Walled Garden web application development" },
+  { "fees": 8083.92, "title": "Full Stack Developer (Backend Focus)" },
+  {
+    "fees": 7696.0,
+    "title": "\"Senior Software Machine Learning Engineer (Python, Java, Kafka, Kubernetes)\""
+  },
+  {
+    "fees": 7176.0,
+    "title": "Android Automotive Developer - Google Automotive Services"
+  },
+  { "fees": 6668.0, "title": "Senior Full Stack Web Developer" },
+  { "fees": 6616.0, "title": "Sr. Interaction Designer" },
+  { "fees": 6500.0, "title": "Product Manager (Fintech)" },
+  { "fees": 6308.06, "title": "Lead Visual Designer" },
+  { "fees": 6225.5, "title": "Sr Software Engineer (SDET)" },
+  { "fees": 6156.0, "title": "Sr Data Engineer" },
+  { "fees": 6132.0, "title": "Engineering Manager / Tech Lead" },
+  { "fees": 6004.0, "title": "TaskRabbit Full Stack Engineer" },
+  {
+    "fees": 5952.0,
+    "title": "\"Full Stack Engineer (React, Redux, Typescript)\""
+  },
+  { "fees": 5843.0, "title": "Front End Developer" },
+  {
+    "fees": 5568.0,
+    "title": "Marcus: Cards Engineering - Apple Card (W2 & Benefits provided)"
+  },
+  { "fees": 5390.0, "title": "Design Technologist" },
+  { "fees": 5280.0, "title": "Senior React Native Engineer" },
+  { "fees": 5252.8, "title": "Senior Data Analyst (John Cooper W2)" },
+  { "fees": 5209.94, "title": "Design Prototyper" },
+  {
+    "fees": 5200.0,
+    "title": "\"Full-Stack Product Engineer: React/Node.js, Remote\""
+  },
+  { "fees": 5200.0, "title": "Senior Product Owner" },
+  {
+    "fees": 5168.0,
+    "title": "Senior Software Engineer - Kotlin Multiplatform (Android) - BRD"
+  },
+  { "fees": 5164.0, "title": "QA Engineer" },
+  { "fees": 5088.0, "title": "Software Engineer (JS/TypeScript)" },
+  { "fees": 4884.89, "title": "DevOps (ChainOps)" },
+  { "fees": 4882.0, "title": "Distributed Systems Engineer" },
+  { "fees": 4788.0, "title": "\"UX Content Designer, Design Systems\"" },
+  { "fees": 4770.0, "title": "Brand Design Manager" },
+  { "fees": 4752.0, "title": "Sr. Product Designer (Prototyper)" },
+  { "fees": 4692.0, "title": "Sr. Frontend Engineer -- React.js/React Native" },
+  { "fees": 4688.25, "title": "Senior Copy Writer" },
+  { "fees": 4668.0, "title": "\"Designer, Digital Marketing\"" },
+  { "fees": 4654.0, "title": "Product Owner" },
+  { "fees": 4651.49, "title": "Senior Java Engineer" },
+  { "fees": 4535.68, "title": "Infrastructure / DevOps Engineer" },
+  {
+    "fees": 4500.0,
+    "title": "\"Senior Product Manager, Digital Incubator, Payments\""
+  },
+  { "fees": 4478.76, "title": "Lead UX Designer" },
+  { "fees": 4448.0, "title": "Front End Software Engineer" },
+  {
+    "fees": 4392.0,
+    "title": "UX Designer (KW Product Team) - 6 month Contract to Hire"
+  },
+  { "fees": 4352.44, "title": "Blockchain Security Auditor" },
+  {
+    "fees": 4350.0,
+    "title": "\"Senior Product Manager, Digital Incubator, Direct\""
+  },
+  { "fees": 4204.03, "title": "Full Stack Engineer" },
+  { "fees": 4056.0, "title": "\"Sr Product Designer, Design System\"" },
+  { "fees": 4032.0, "title": "Senior Back-End Developer" },
+  { "fees": 3867.01, "title": "Backend Developer" },
+  {
+    "fees": 3840.0,
+    "title": "Sr. Front-End Engineer - Typescript + React + CSS"
+  },
+  {
+    "fees": 3816.0,
+    "title": "Senior Frontend Engineer - Typescript + React + CSS"
+  },
+  { "fees": 3800.0, "title": "Mid-Level Django Developer" },
+  { "fees": 3780.13, "title": "Principal Full Stack Developer" },
+  { "fees": 3696.0, "title": "Product Manager / Business Analyst" },
+  { "fees": 3685.96, "title": "Senior Full-Stack Engineer" },
+  { "fees": 3644.22, "title": "Research Engineer / Cryptoeconomist" },
+  {
+    "fees": 3596.0,
+    "title": "Sr. Back End Engineer/Architect- Payment Platforms"
+  },
+  { "fees": 3584.0, "title": "Growth Sr/Software - Engineer Tech Lead" },
+  { "fees": 3581.65, "title": "Full Stack Developer (AWS + Node)" },
+  { "fees": 3528.0, "title": "Sr. Python Developer - Logistics Engineering" },
+  { "fees": 3440.8, "title": "Unity Engineer" },
+  { "fees": 3440.0, "title": "Service Designer (Life Insurance Division)" },
+  { "fees": 3380.0, "title": "Sr. Front End Developer - React Native" },
+  { "fees": 3338.75, "title": "Senior Visual Designer" },
+  {
+    "fees": 3333.41,
+    "title": "Full Stack Javascript Developer (Frontend Focus)"
+  },
+  { "fees": 3280.0, "title": "Sr. Digital Products and Services Designer" },
+  { "fees": 3248.0, "title": "Consultant" },
+  { "fees": 3192.0, "title": "UX Program Manager" },
+  { "fees": 3167.0, "title": "Data Analyst / Growth Operations" },
+  { "fees": 3136.0, "title": "Full Stack Engineer: Ruby on Rails and React" },
+  { "fees": 3008.0, "title": "Senior Web Designer" },
+  {
+    "fees": 3000.0,
+    "title": "\"Director, Demand Generation Marketing (contract-to-hire)\""
+  },
+  { "fees": 3000.0, "title": "Senior Full Stack Software Engineer" },
+  { "fees": 2976.0, "title": "\"Senior Engineer, .NET/C#\"" },
+  { "fees": 2940.0, "title": "Sr Cloud SRE (Site Reliability Engineer)" },
+  { "fees": 2909.08, "title": "Sr. VR Engineer" },
+  { "fees": 2800.0, "title": "Senior DevOps Engineer" },
+  { "fees": 2796.0, "title": "Senior Frontend Engineer (React + GraphQL)" },
+  { "fees": 2740.0, "title": "Project Manager - Acquisitions of New Sites" },
+  { "fees": 2736.0, "title": "UI/UX Designer" },
+  { "fees": 2721.75, "title": "Principal Full Stack Engineer" },
+  {
+    "fees": 2720.0,
+    "title": "\"Senior Product Designer, Cross-Marketplace Experience (Option for W2 or Contract) | Etsy\""
+  },
+  { "fees": 2700.0, "title": "IT Support Engineer" },
+  {
+    "fees": 2688.0,
+    "title": "Full Stack Developer (React/Python/Django) - 2x roles"
+  },
+  { "fees": 2665.12, "title": "Sr. Editorial Content Writer" },
+  { "fees": 2640.0, "title": "ELK Developer" },
+  { "fees": 2628.0, "title": "Sr. Frontend Developer - Remote/Global" },
+  { "fees": 2600.0, "title": "iOS Developer" },
+  { "fees": 2575.0, "title": "Lead Experience Designer" },
+  { "fees": 2520.0, "title": "Principal Software Engineer" },
+  { "fees": 2506.37, "title": "DevOps Engineer" },
+  { "fees": 2469.12, "title": "Senior Backend Engineer" },
+  { "fees": 2464.0, "title": "\"Listing Editor - Remote, US-Based\"" },
+  { "fees": 2450.0, "title": "Senior Android Engineer" },
+  { "fees": 2440.0, "title": "React Native Developer" },
+  { "fees": 2432.0, "title": "Senior Software Engineer - Frontend" },
+  { "fees": 2338.0, "title": "Sr. Front End Developer - Fintech" },
+  { "fees": 2337.5, "title": "UX / Service Designer" },
+  { "fees": 2320.0, "title": "Senior UX/UI Design Specialist" },
+  { "fees": 2312.2, "title": "Senior iOS Engineer" },
+  { "fees": 2304.0, "title": "Senior Android Developer" },
+  { "fees": 2300.0, "title": "\"UX/Visual Designer, Design System\"" },
+  {
+    "fees": 2300.0,
+    "title": "Marketing Graphic Designer | Myriad | ASAP - October 31"
+  },
+  { "fees": 2299.82, "title": "Lead UX/Service Designer (McKinsey)" },
+  { "fees": 2273.6, "title": "\"Listing Specialist - Remote, US-Based\"" },
+  { "fees": 2175.99, "title": "Frontend Engineer" },
+  {
+    "fees": 1996.8,
+    "title": "Android Developer - Kotlin | RxJava (Multiple Positions)"
+  },
+  { "fees": 1932.0, "title": "Sr. UX Designer (contract-to-hire)" },
+  { "fees": 1921.77, "title": "React Native Developer (Android & iOS)" },
+  { "fees": 1856.0, "title": "Developer - Technical Debt" },
+  { "fees": 1856.0, "title": "Data Engineer" },
+  { "fees": 1823.83, "title": "Senior Full Stack Developer" },
+  { "fees": 1805.26, "title": "Cosmos SDK Blockchain Engineer" },
+  { "fees": 1800.0, "title": "Technical Writer for APIs" },
+  { "fees": 1788.0, "title": "Senior Mobile Product Designer (Android/iOS)" },
+  {
+    "fees": 1728.0,
+    "title": "Senior Back-End Engineer - JavaScript + Architecture"
+  },
+  {
+    "fees": 1728.0,
+    "title": "Product Designer | 2 Roles - 1 Senior/1 Mid| Reverb"
+  },
+  { "fees": 1725.5, "title": "Technical Writer" },
+  { "fees": 1710.0, "title": "Front-End Developer" },
+  { "fees": 1692.0, "title": "React Dev (Startup)" },
+  { "fees": 1674.0, "title": "Frontend Developer - Remote/Global" },
+  { "fees": 1650.0, "title": "Marketing Coordinator" },
+  { "fees": 1624.0, "title": "Full Stack Developer (React/Python/Django)" },
+  { "fees": 1615.0, "title": "React Developer" },
+  { "fees": 1581.13, "title": "Mid-Level Backend Engineer" },
+  { "fees": 1560.0, "title": "Service Designer (Retirement Solutions)" },
+  { "fees": 1540.77, "title": "Lead Service Design" },
+  { "fees": 1523.5, "title": "Growth - Marketing Automation" },
+  { "fees": 1512.0, "title": "iOS Engineer" },
+  { "fees": 1480.0, "title": "Full Stack Rails Engineer | WeWork" },
+  { "fees": 1480.0, "title": "Mobile Developer Tech Lead" },
+  { "fees": 1440.5, "title": "Web UI/UX Designer" },
+  { "fees": 1400.0, "title": "Backend Engineer" },
+  { "fees": 1392.56, "title": "UX / UI / Web Designer" },
+  { "fees": 1350.0, "title": "Visual Designer and Prototyper" },
+  { "fees": 1320.0, "title": "\"Product Manager, Fleet\"" },
+  {
+    "fees": 1288.0,
+    "title": "\"Sr. Product Designer, Transaction Management\""
+  },
+  { "fees": 1280.0, "title": "Product Designer / Prototyper" },
+  { "fees": 1262.13, "title": "Brand Identity Designer" },
+  {
+    "fees": 1260.0,
+    "title": "Full stack engineer needed to create analytics dashboard and Stripe Subscription!"
+  },
+  {
+    "fees": 1210.0,
+    "title": "Machine Learning Consultant (Design/Architecture)"
+  },
+  { "fees": 1200.0, "title": "Senior UX Designer" },
+  {
+    "fees": 1200.0,
+    "title": "Software Development Engineer - Front End (React.js/Next.js)"
+  },
+  { "fees": 1132.5, "title": "Sr. Data Engineer - Python" },
+  { "fees": 1080.0, "title": "Content Designer" },
+  { "fees": 1064.0, "title": "IAM Manager - IT Security" },
+  {
+    "fees": 987.5,
+    "title": "Senior Partner Marketing Manager (contract-to-hire)"
+  },
+  { "fees": 966.96, "title": "Full Stack React Native Developer" },
+  { "fees": 960.0, "title": "Visual Designer" },
+  { "fees": 942.0, "title": "Senior Frontend Engineer" },
+  { "fees": 930.0, "title": "Solidity Engineer" },
+  { "fees": 900.0, "title": "Conversion Oriented Web Designer" },
+  { "fees": 841.06, "title": "\"Product Design, Prototyper\"" },
+  { "fees": 828.0, "title": "\"Sr. Product Designer, Design System\"" },
+  { "fees": 816.0, "title": "Sr Visual Designer" },
+  { "fees": 807.0, "title": "Senior UX/UI Designer" },
+  { "fees": 772.01, "title": "Rockstar UI/UX and Web Designer" },
+  { "fees": 770.0, "title": "Product Design Lead" },
+  { "fees": 760.0, "title": "Sr Product Designer" },
+  { "fees": 720.0, "title": "Javascript Engineer" },
+  { "fees": 712.5, "title": "Sr. QA Automation Engineer (contract-to-hire)" },
+  { "fees": 705.0, "title": "Senior Web Developer - React/Redux" },
+  { "fees": 640.0, "title": "Sr UX/UI Designer" },
+  { "fees": 640.0, "title": "Full Stack Engineer (Python + Javascript)" },
+  { "fees": 631.25, "title": "Solution Architect" },
+  { "fees": 600.0, "title": "Associate QA Engineer" },
+  { "fees": 600.0, "title": "Senior Back-End Engineer - Node.js & GCP" },
+  {
+    "fees": 574.39,
+    "title": "Sr.Full Stack Developer (Django/Python developer)"
+  },
+  { "fees": 560.0, "title": "AWS/Postgres/Node.js DevOps Engineer" },
+  { "fees": 550.2, "title": "Video Editor - Project Manager" },
+  { "fees": 522.0, "title": "Content Marketing Manager" },
+  {
+    "fees": 498.75,
+    "title": "Sr. Back End Engineer/Architect- Customer Data Platform (CDP)."
+  },
+  { "fees": 465.5, "title": "Senior Designer" },
+  { "fees": 460.0, "title": "\"Prototyper, Product Designer\"" },
+  { "fees": 438.06, "title": "Design Director-McKinsey" },
+  { "fees": 424.61, "title": "Front End Developer - React JS / React Native" },
+  { "fees": 383.95, "title": "Sr Front-End Engineer" },
+  { "fees": 380.55, "title": "Senior Mobile Engineer (Flutter)" },
+  { "fees": 360.0, "title": "Front End Web Developer (React.js)" },
+  { "fees": 360.0, "title": "UI Designer" },
+  { "fees": 327.54, "title": "Data Analyst" },
+  { "fees": 317.73, "title": "Comms Designer" },
+  { "fees": 302.6, "title": "Design Prototyper / Powerpoint Demo" },
+  { "fees": 277.5, "title": "Design and Product Owner" },
+  { "fees": 276.0, "title": "\"Senior Product Designer, Design System\"" },
+  { "fees": 240.0, "title": "UX Architect" },
+  { "fees": 240.0, "title": "Growth Analytics Automation Developer" },
+  { "fees": 240.0, "title": "Service Designer" },
+  { "fees": 236.5, "title": "\"Visual Designer, Marketing\"" },
+  { "fees": 224.0, "title": "ELK Stack Consultant" },
+  { "fees": 216.0, "title": "\"Product Designer, Figma Prototype\"" },
+  { "fees": 215.11, "title": "Digital Marketer" },
+  { "fees": 203.64, "title": "Web Designer" },
+  { "fees": 180.0, "title": "Senior Software Development Engineer" },
+  { "fees": 170.0, "title": "Senior User Researcher" },
+  { "fees": 165.41, "title": "Senior Full Stack Developer (Javascript + PHP)" },
+  {
+    "fees": 150.0,
+    "title": "Digital Science \u2013 Digital Best Practices App"
+  },
+  { "fees": 150.0, "title": "Front End Web Developer" },
+  { "fees": 142.9, "title": "Design Development Phase II" },
+  { "fees": 131.47, "title": "Lead Product / UX Designer (Mobile App)" },
+  { "fees": 112.0, "title": "Rust Engineer" },
+  { "fees": 111.93, "title": "Franchising Database Manager" },
+  { "fees": 100.0, "title": "Contract Product Owner" },
+  { "fees": 97.5, "title": "Sr. UX/UI Designer" },
+  { "fees": 78.6, "title": "Web Developer" },
+  { "fees": 72.58, "title": "Software Engineer" },
+  { "fees": 71.75, "title": "\"Visual Designer, Icons\"" },
+  { "fees": 45.0, "title": "iOS App Developer" },
+  { "fees": 37.55, "title": "Blockchain/DeFi Consultant" },
+  { "fees": 30.73, "title": "UI Designer/Visual Designer" },
+  { "fees": 15.89, "title": "Marketing Copywriter (Healthcare)" },
+  { "fees": 14.44, "title": "Front End / Web Developer" },
+  {
+    "fees": 14.44,
+    "title": "Proof of Concept: Payment Flow to Accelerated Labs"
+  }
+]

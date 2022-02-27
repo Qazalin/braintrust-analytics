@@ -1,0 +1,7 @@
+[
+  { "frequency": 6, "category": "Business" },
+  { "frequency": 347, "category": "Designer" },
+  { "frequency": 451, "category": "Engineer" },
+  { "frequency": 94, "category": "Manager" },
+  { "frequency": 402, "category": "Other" }
+]
