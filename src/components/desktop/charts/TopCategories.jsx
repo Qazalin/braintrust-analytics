@@ -7,7 +7,7 @@ export const TopCategories = ({ data }) => {
   const colors = ['#f0f3bd', '#02c39a', '#05668d', '#66B19C', '#80ffdb']
   return (
     <Center>
-      <PieChart width={400} height={300}>
+      <PieChart width={300} height={300}>
         <Pie
           paddingAngle={5}
           data={data}

@@ -1,13 +1,16 @@
 // Bar chart of top talents
+import { useMediaQuery } from '@chakra-ui/react'
 import { Bar, BarChart, YAxis, CartesianGrid, Tooltip } from 'recharts'
 
 import { TalentToolTip } from '../../tooltips/TalentToolTip'
 
 export const TalentChart = ({ data, dataKey, range, isAll = false }) => {
+  // Due to the overflow of the chart for tablet screens, use a media query
+  const [isTablet] = useMediaQuery('(max-width: 770px)')
   return (
     <BarChart
-      width={450}
-      height={300}
+      width={isTablet ? 240 : 390}
+      height={isTablet ? 240 : 300}
       data={isAll ? data : data.slice(0, range)}
       style={{
         marginTop: 30,
