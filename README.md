@@ -9,9 +9,9 @@ This project is an analytics dashboard of the data from the newly created [Brain
 
 <h2 id="general">About the project</h2>
 
-The Braintrust fee convertor contract is a recently implemented feature [proposed by the Braintrust DAO](https://snapshot.org/#/usebraintrust.eth/proposal/QmRgbnjVzTMShoT2dHa7dAQj4EYo3RMdhVUUKN9XrnBobQ) that allows nodes on the network to pay fees in the native token [$BTSRT](https://www.coingecko.com/en/coins/braintrust).<br/>
+The Braintrust fee convertor contract is a recently implemented feature [proposed by the Braintrust DAO](https://snapshot.org/#/usebraintrust.eth/proposal/QmRgbnjVzTMShoT2dHa7dAQj4EYo3RMdhVUUKN9XrnBobQ) that allows nodes in the network to pay fees in the native token [$BTSRT](https://www.coingecko.com/en/coins/braintrust).<br/>
 This results in a programmatic correlation between the GSV of the network and $BTRST value.<br/>
-Interested? Learn more on the <a href="#resources">resources</a> section.
+Interested? Learn more in the <a href="#resources">resources</a> section.
 
 ## Future Plans✨
 
@@ -21,7 +21,7 @@ Interested? Learn more on the <a href="#resources">resources</a> section.
 
 <h2 id="resources">Resources</h2>
 
--   [Braintrust founders on Not Boring](https://www.notboring.co/p/braintrust-fighting-capitalism-with)
+-   [Braintrust founders on NotBoring](https://www.notboring.co/p/braintrust-fighting-capitalism-with)
 -   [Article from the core dev](https://medium.com/snowfork/introducing-the-braintrust-fee-converter-21be7c8af951)
 -   [My article](https://mirror.xyz/0x7c9CEfF6479439BF14621A09Ca8ab5635a26bD00/tbWNLgXQjF2ZQPCBOxSUmMd59Da-mnFqx8DJIy8G6ms)
 
