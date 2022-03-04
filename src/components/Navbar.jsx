@@ -6,7 +6,7 @@ export const Navbar = () => {
     return (
         <Box width={'100%'} height="100%">
             <Text fontSize={'1.5rem'} fontWeight={'bold'} ml="20px" mt="15px">
-                Braintrust Fee Convertor | Overview
+                Braintrust Fee Converter | Overview
             </Text>
             <Flex justifyContent="space-between" px="30px">
                 <Box mt="15px">
@@ -22,7 +22,7 @@ export const Navbar = () => {
                                 link: 'https://github.com/Qazalin/braintrust-analytics',
                             },
                             {
-                                title: 'Fee Convertor Contract',
+                                title: 'Fee Converter Contract',
                                 link: 'https://etherscan.io/address/0x438e6416fe63863c434e4d6ee0c39d8f96880186#code',
                             },
                         ]}

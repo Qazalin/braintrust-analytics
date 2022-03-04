@@ -9,7 +9,7 @@ This project is an analytics dashboard of the data from the newly created [Brain
 
 <h2 id="general">About the project</h2>
 
-The Braintrust fee convertor contract is a recently implemented feature [proposed by the Braintrust DAO](https://snapshot.org/#/usebraintrust.eth/proposal/QmRgbnjVzTMShoT2dHa7dAQj4EYo3RMdhVUUKN9XrnBobQ) that allows nodes in the network to pay fees in the native token [$BTSRT](https://www.coingecko.com/en/coins/braintrust).<br/>
+The Braintrust fee converter contract is a recently implemented feature [proposed by the Braintrust DAO](https://snapshot.org/#/usebraintrust.eth/proposal/QmRgbnjVzTMShoT2dHa7dAQj4EYo3RMdhVUUKN9XrnBobQ) that allows nodes in the network to pay fees in the native token [$BTSRT](https://www.coingecko.com/en/coins/braintrust).<br/>
 This results in a programmatic correlation between the GSV of the network and $BTRST value.<br/>
 Interested? Learn more in the <a href="#resources">resources</a> section.
 
